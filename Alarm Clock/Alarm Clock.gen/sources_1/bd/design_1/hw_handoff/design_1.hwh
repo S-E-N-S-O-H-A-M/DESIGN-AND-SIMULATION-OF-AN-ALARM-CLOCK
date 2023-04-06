@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Wed Nov 30 18:34:35 2022" VIVADOVERSION="2022.1">
+
+  <SYSTEMINFO ARCH="zynquplus" BOARD="xilinx.com:kv260_som:part0:1.3" DEVICE="xck26" NAME="design_1" PACKAGE="sfvc784" SPEEDGRADE="-2LV"/>
+
+  <EXTERNALPORTS/>
+
+  <EXTERNALINTERFACES/>
+
+  <MODULES/>
+
+</EDKSYSTEM>
